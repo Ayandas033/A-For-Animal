@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    line-height:25px;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    margin:0;
+    padding:0;
+}
+li{
+    list-style:none;
+}
+a{
+    text-decoration: none;
+}
+.clear{
+    clear:both;
+}
+header{
+    background-color: #e9b167 ;
+}
